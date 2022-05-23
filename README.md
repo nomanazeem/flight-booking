@@ -9,7 +9,10 @@ http://localhost:8080/h2-console/
 payload for sending request
 
 url:localhost:8080/flight/bookFlight
+
 post request
+
+
 body: 
 {
     "passengerInfo": {
